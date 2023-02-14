@@ -13,3 +13,7 @@ To install the packages:
 If the above methods don't work, do the following:
 - py -m pip install keyboard
 - py -m pip install fbchat
+!important
+In order to get the code running, get into the fbchat module or follow the directory in the error once run,
+change the values of revision to 1 or copy the code below and replace it in line 190
+revision = 1
