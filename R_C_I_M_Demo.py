@@ -29,8 +29,7 @@ def message_check():
         print(message.text)
 
 while True:
-    #message_check()
-    command = input()
+    message_check()
     action = command.split()
 
     #OPEN COMMAND: open [browser] [key words/links]
